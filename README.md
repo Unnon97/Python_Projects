@@ -5,4 +5,5 @@ Topics for projects involve:
 - Using AutoEncoder Networks to colorize gray images by finding the latent space of image data
 - Using LSTM networks(Pytorch) on stock market dataset to predict updcoming prices
 - Using LSTM network(Tensorflow) on Alcohol sales data to predict the sales value
-
+- Using Probabilistic Graph models
+- Using Semantic Segmentation for driving cars
