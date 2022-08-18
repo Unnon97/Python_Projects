@@ -7,3 +7,5 @@ Topics for projects involve:
 - Using LSTM network(Tensorflow) on Alcohol sales data to predict the sales value
 - Using Probabilistic Graph models
 - Using Semantic Segmentation for driving cars
+- Using different models of Reinforcement learning to test on OpenAI Gym environment of 'CarRacing-v0'
+- Using Computer Vision on images for mask detection
