@@ -2,6 +2,7 @@
 *.csv
 *.txt
 *.png
+*.xml
 
 *.7z
 *.dmg
