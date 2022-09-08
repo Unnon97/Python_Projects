@@ -7,6 +7,6 @@ Topics for projects involve:
 - Using LSTM networks(Pytorch) on stock market dataset to predict updcoming prices
 - Using LSTM network(Tensorflow) on Alcohol sales data to predict the sales value
 - Using Probabilistic Graph models
-- Using Semantic Segmentation for driving cars
+- Using Semantic Segmentation on dash cam images for driving cars using U-net framework in Tensorflow
 - Using different models of Reinforcement learning to test on OpenAI Gym environment of 'CarRacing-v0'
 - Using Computer Vision on images for mask detection
